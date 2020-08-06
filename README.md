@@ -8,7 +8,8 @@ beans
 
 <br />  
 
-<br />  
-
 ## stats  
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=xf8b)](https://github.com/anuraghazra/github-readme-stats)  
+[<img align="left" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=xf8b&count_private=true" />][github-readme-stats]  
+[<img align="left" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xf8b&layout=compact" />][github-readme-stats]  
+
+[github-readme-stats]: https://github.com/anuraghazra/github-readme-stats
