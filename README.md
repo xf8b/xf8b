@@ -2,9 +2,11 @@ beans
 # stuff i do  
 * make minecraft mods  
 * java  
+* kotlin  
 ## icons  
 <img align="left" alt="minecraft image" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/minecraft/minecraft.png" />  
 <img align="left" alt="java image" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />  
+<img align="left" alt "kotlin image" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />  
 
 <br />  
 
