@@ -1,6 +1,6 @@
 beans  
-# stuff i do  
-* make minecraft mods  
+# stuff i know  
+* how to make minecraft mods  
 * java  
 * kotlin  
 ## icons  
